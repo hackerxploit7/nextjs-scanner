@@ -1,5 +1,7 @@
 # NextJS-Scanner
 
+![License](https://img.shields.io/badge/license-MIT-green) ![CVE](https://img.shields.io/badge/CVE_2025_55182-Security_Issue-red?logo=github) ![version](https://img.shields.io/badge/version-1.0.0-blue)
+
 A fast, threaded Next.js detection tool that checks domains for server response headers commonly used by Next.js deployments.
 
 This tool is especially useful for **bug bounty / security research workflows** where you want to:
