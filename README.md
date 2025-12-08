@@ -37,7 +37,7 @@ This tool is especially useful for **bug bounty / security research workflows** 
 # Installation
 
 ```bash
-git clone https://github.com/hxp7th/nextjs-scanner
+git clone https://github.com/hackerxploit7/nextjs-scanner
 cd nextjs-scanner
 pip install requests
 ```
